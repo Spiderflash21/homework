@@ -15,3 +15,7 @@ body {
 #headingbackground{
   background-image: url(darkbackgroundimg.jpg);
 }
+
+.circ-pic{
+  margin-top: -50px;
+}
